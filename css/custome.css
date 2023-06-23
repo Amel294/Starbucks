@@ -1,0 +1,126 @@
+.featurette-image {
+    align-items: end;
+  }
+
+
+.color-green{
+    background-color: #006241;
+    color: white;
+}
+
+.color-blue{
+    background-color: #92CBFF;
+    color: #1E3932;
+}
+
+.color-pink{
+    background-color: #EB81A5;
+    color:#1E3932
+}
+
+
+.color-lightgreen{
+    background-color: #CCE87A;
+    color: #1E3932;
+}
+
+.featurette-heading{
+    font-size: 1.5rempx;
+}
+
+
+.lead{
+    font-size: 3rex;
+}
+
+
+@media(min-width: 1400px){
+  
+  .featurette-image{
+    height: 100%;
+  }
+}
+
+@media(min-width: 1200px){
+  
+  .featurette-image{
+    height: 100%;
+  }
+}
+  
+@media(min-width: 992px){
+
+  .featurette-image{
+    height: 100%;
+  }
+}
+
+@media(min-width: 768px){
+  
+  .featurette-image{
+    height: 100%;
+  }
+}
+
+@media(min-width: 576px){
+  
+  .featurette-image{
+    height: 100%;
+  }
+}
+
+
+
+@media(min-width: 280px){
+  
+  .featurette-image{
+    height: 100%;
+    
+  }
+  #nav{
+    padding-right: 0 !important;;
+    padding-left: 0 !important;;
+    margin-right: 0rem !important;
+    margin-left: 0 !important;;
+  }
+  #mobile-social{
+    
+  }
+}
+.padding-zero{
+    padding: 0px;
+}
+
+
+.logo{
+  height: 50px;
+  width: 50px;
+}
+
+
+
+
+@media (max-width: 767px) {
+    #footer-desktop {
+      display: none;
+    }
+  }
+  
+
+  @media (min-width: 767px) {
+    #footer-mob {
+      display: none;
+    }
+    
+  }
+
+.colour{
+  background-color: red;
+}
+
+
+.featurette-image{
+  height: 100%;
+  padding: 10px;
+  
+}
